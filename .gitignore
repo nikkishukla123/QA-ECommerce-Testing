@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Generated folders
+previews/
+report_rendered/
+resume_rendered/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.cache
+
+# Python
+__pycache__/
+*.pyc
